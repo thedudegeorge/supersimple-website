@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIE WAHRHEIT ÜBER GINGER</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: red;
+        }
+        .author {
+            font-size: 10px;
+            color: white;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <h1>DIE WAHRHEIT ÜBER GINGER</h1>
+    <p>Rothaarige – jene seltenen Geschöpfe, die nicht nur mehr Sonnencreme als normale Menschen benötigen, sondern angeblich auch weniger Schmerz empfinden und vielleicht sogar Seelen los sind... Zeit, die Wahrheit ans Licht zu bringen!</p>
+    
+    <p class="author">Geschrieben von Georg Erich Fischer</p>
+</body>
+</html>
